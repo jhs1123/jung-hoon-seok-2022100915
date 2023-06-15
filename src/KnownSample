@@ -1,0 +1,3 @@
+@dataclass
+class KnownSample(Sample):
+    species: str

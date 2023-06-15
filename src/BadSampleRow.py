@@ -1,0 +1,2 @@
+class BadSampleRow(ValueError):
+    pass
